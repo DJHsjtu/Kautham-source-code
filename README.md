@@ -11,6 +11,8 @@ $ cd build
 $ cmake ../      
 $ make
 $ sudo make install
-
+```
 # Run kautham
-kautham-gui
+```
+$ kautham-gui
+```
